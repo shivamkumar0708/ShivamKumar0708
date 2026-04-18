@@ -16,6 +16,8 @@ I’m a passionate Web Developer with experience in HTML, CSS, JavaScript, Java,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
   
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   
@@ -25,3 +27,7 @@ I’m a passionate Web Developer with experience in HTML, CSS, JavaScript, Java,
   
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
+
+- 🔭 I’m currently working on **travel.**
+
+- 👯 I’m looking to collaborate on **React JS, Node JS**
